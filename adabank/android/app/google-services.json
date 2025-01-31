@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246066328010",
+    "project_id": "adabank-c1298",
+    "storage_bucket": "adabank-c1298.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246066328010:android:d8b27ea458061e97015f33",
+        "android_client_info": {
+          "package_name": "com.example.adabank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvdNJQHmZL0rs1nU1nnQu7wrlbaS2Ehc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
